@@ -14,7 +14,7 @@
 - 🔭 &nbsp; I’m currently learning Node js Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Master of computer applications and Mathematics.
-- 💼 &nbsp; Full Stack PHP Developer @MapleTechSpace.
+- 💼 &nbsp; Full Stack PHP Developer & Vue.Js Developer.
 - 🌱 &nbsp; Enthusiast in open source contribution .
 
 
