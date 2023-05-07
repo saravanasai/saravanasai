@@ -3,7 +3,7 @@
 <h2> Hi 👋, I'm Saravana Thiyagarajan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 - Martin Fowler</p>
-<h4 align="center">Writing Code For Humans Not For Dump Machine</h4>
+<h4 align="center">Writing Code For Humans Not For Dumb Machine</h4>
 <h1 align="center"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanasai&label=Profile%20views&color=0e75b6&style=flat" alt="saravanasai" /> </p>
 </h1>
