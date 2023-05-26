@@ -1,8 +1,8 @@
 <img align="center" alt="Profle section" src="https://github.com/itsbeautifullife/isabel-frontend/assets/36000435/8dfcac6b-3377-4666-8d99-3b7d35da0087 " width="100%"/>
        
 <h2> Hi 👋, I'm Saravana Thiyagarajan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
-- Martin Fowler</p>
+<p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</p>
+<p align="right">- Martin Fowler</p>
 <h4 align="center">Writing Code For Humans Not For Dumb Machine</h4>
 <h1 align="center"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanasai&label=Profile%20views&color=0e75b6&style=flat" alt="saravanasai" /> </p>
