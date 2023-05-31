@@ -36,7 +36,11 @@
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=geeky01adarsh&label=Profile%20views&color=orange&style=flat&label=PROFILE+VIEWS" alt="geeky01adarsh" /> 
+</br>   Find the repos I'm proud of, below in my pinned repos. </br>Please provide support by giving star if you liked it.</br>
+🧡 Thank you for visiting my Github Profile 🧡
 
+</p>
 
 
 
