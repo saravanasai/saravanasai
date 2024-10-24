@@ -1,4 +1,4 @@
-<img align="center" alt="Profle section" src="https://github.com/saravanasai/saravanasai/assets/36000435/8c7dc44e-ad7e-43c0-b918-1afd0eaec099" width="100%"/>
+<img align="center" alt="Profle section" src="https://private-user-images.githubusercontent.com/36000435/379861646-40798481-a7c8-4273-b292-b162c85b5d6a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk3ODgzNDcsIm5iZiI6MTcyOTc4ODA0NywicGF0aCI6Ii8zNjAwMDQzNS8zNzk4NjE2NDYtNDA3OTg0ODEtYTdjOC00MjczLWIyOTItYjE2MmM4NWI1ZDZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI0VDE2NDA0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjNTYyMjVlYTBhZDE5YjU3ODRmM2IwYzRkMWViMWJlNjkyZTM5MWYyODY2ZjMyNTYxOWYxYjUzODgwNWMwMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iIcN2cX6Uq4M0O9_G8ekpehz2Fyv4OIKnf1KZPIbudI" width="100%"/>
        
 <h2> Hi 👋, I'm Saravana Thiyagarajan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</p>
@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanasai&label=Profile%20views&color=0e75b6&style=flat" alt="saravanasai" /> </p>
 </h1>
 
-<img align="right" alt="GIF" src="https://drive.google.com/file/d/1Tw6F_-J9webz7yA4Q5M54DET8-zZCNL3/view?usp=drive_link" width="500"/>
 <br>
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
