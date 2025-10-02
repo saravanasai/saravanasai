@@ -1,54 +1,69 @@
-       
-<h2> Hi 👋, I'm Saravana Thiyagarajan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</p>
-<p align="center">- Martin Fowler</p>
-<h4 align="center">Writing Code For Humans Not For Dumb Machine</h4>
-<h1 align="center"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanasai&label=Profile%20views&color=0e75b6&style=flat" alt="saravanasai" /> </p>
-</h1>
+# Hi, I'm Saravana 👋  
 
-<br>
-<br>
-<h3> 👨🏻‍💻 About Me </h3>
+🚀 **Backend Engineer | Emerging Solution Architect**  
+Designing and building scalable systems with a focus on performance, reliability, and developer experience.  
 
-- 🔭 &nbsp; I’m currently learning Node js Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Master of computer applications and Mathematics.
-- 💼 &nbsp; Full Stack PHP Developer & Vue.Js Developer.
-- 🌱 &nbsp; Enthusiast in open source contribution .
+---
 
-<br>
-<br>
+## 🧑‍💻 About Me  
+- 4+ years of experience building **scalable backend systems** using Node.js, Laravel, and Go.  
+- Moving towards **Solution Architecture** with strong foundations in distributed systems and cloud.  
+- Passionate about **system design, databases, protocols, and high-performance services**.  
+- Contributor to the open-source ecosystem with multiple projects (Go, Laravel, Databases).  
+- Recently released **Laravel Stream-Pulse**, a package enabling **Event-Driven Architecture (EDA)** in Laravel using Redis Streams as the backend.  
 
-## Tech & Tools Preference 💻
+---
 
-#### Backend
-<img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Php-F89820?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
-<br>
+## 🔧 Tech Stack  
 
-#### JS Framework/Library
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> 
-<br>
+**Languages & Frameworks**  
+- Go • PHP (Laravel) • Node.js (Express, NestJS) • JavaScript/TypeScript • React.js / Vue.js  
 
-#### Version Control 
-<img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<br>
+**Databases & Storage**  
+- MSSQL • MySQL • PostgreSQL • MongoDB • Redis • ClickHouse  
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saravanasai&label=Profile%20views&color=orange&style=flat&label=PROFILE+VIEWS" alt="geeky01adarsh" /> 
-</br>   Find the repos I'm proud of, below in my pinned repos. </br>Please provide support by giving star if you liked it.</br>
-🧡 Thank you for visiting my Github Profile 🧡
+**Cloud & DevOps**  
+- AWS (ECS, S3, VPC, EC2, RDS, EKS)  
+- Docker • GitHub Actions 
 
-</p>
+**Architecture Interests**  
+- Event-Driven Microservices  
+- Database Internals & Query Engines  
+- Distributed Systems & Protocols  
+- Scalability & High Availability  
 
+---
 
+## 📌 Featured Projects  
 
+###  [Laravel Stream-Pulse](https://github.com/saravanasai/stream-pulse)  
+Laravel package for **Event-Driven Architecture (EDA)** using Redis Streams.  
+- Enables scalable event publishing & consuming directly inside Laravel.  
+- Ideal for real-time apps and microservice event workflows.  
 
+### [GoQueue](https://github.com/saravanasai/goqueue)  
+Lightweight, production-ready job queue in Go with multiple backends (Redis, SQLite, SQS).  
+- Supports retries, dead-letter queues, and graceful shutdown.  
+- Benchmarked for high-throughput event processing.  
 
+### [Load Balancer (Go)](https://github.com/saravanasai/loadbalancer)  
+Custom HTTP load balancer to understand **connection pooling, round-robin routing, and backend health checks**.  
 
+---
 
+## 📖 Writing & Talks  
+- 📝 Articles on **databases, OSI layers, load balancing, and protocols**.  
+- 🎤 Delivered tech talks on **Node.js event loop, thread pool contention, and deployment strategies**.  
+- Preparing for **AWS Associate Certification** to strengthen cloud expertise.  
 
+---
 
+## 📫 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saravana-sai/)  
+- 🐦 [Twitter](https://x.com/Sai_Saravana_)  
+- 🐙 [GitHub](https://github.com/saravanasai)  
+- ✍️ [Hashnode](https://saravanasai.hashnode.dev/)  
 
+---
 
-
-
+ *"Great engineering is not just about code — it’s about designing systems that scale, adapt, and endure."*  
