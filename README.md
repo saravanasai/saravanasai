@@ -1,69 +1,81 @@
-# Hi, I'm Saravana 👋  
+# Hi, I'm Saravana 👋
 
-🚀 **Backend Engineer | Emerging Solution Architect**  
-Designing and building scalable systems with a focus on performance, reliability, and developer experience.  
+### Senior Backend Engineer · Payments & Distributed Systems
 
----
+I build backend systems that move money and can't afford to be wrong.
+Built a ledger + payment platform serving **1.8M+ users** at **300+ TPS** · Creator of [**GoQueue**](https://github.com/saravanasai/goqueue) · Bengaluru, India 🇮🇳
 
-## 🧑‍💻 About Me  
-- 4+ years of experience building **scalable backend systems** using Node.js, Laravel, and Go.  
-- Moving towards **Solution Architecture** with strong foundations in distributed systems and cloud.  
-- Passionate about **system design, databases, protocols, and high-performance services**.  
-- Contributor to the open-source ecosystem with multiple projects (Go, Laravel, Databases).  
-- Recently released **Laravel Stream-Pulse**, a package enabling **Event-Driven Architecture (EDA)** in Laravel using Redis Streams as the backend.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saravana--sai-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravana-sai/)
+[![Substack](https://img.shields.io/badge/Substack-saravanasai-FF6719?logo=substack&logoColor=white)](https://saravanasai.substack.com/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-blog-2962FF?logo=hashnode&logoColor=white)](https://saravanasai.hashnode.dev/)
+[![X](https://img.shields.io/badge/X-Sai__Saravana__-000000?logo=x&logoColor=white)](https://x.com/Sai_Saravana_)
 
 ---
 
-## 🔧 Tech Stack  
+## 🧑‍💻 About Me
 
-**Languages & Frameworks**  
-- Go • PHP (Laravel) • Node.js (Express, NestJS) • JavaScript/TypeScript • React.js / Vue.js  
-
-**Databases & Storage**  
-- MSSQL • MySQL • PostgreSQL • MongoDB • Redis • ClickHouse  
-
-**Cloud & DevOps**  
-- AWS (ECS, S3, VPC, EC2, RDS, EKS)  
-- Docker • GitHub Actions 
-
-**Architecture Interests**  
-- Event-Driven Microservices  
-- Database Internals & Query Engines  
-- Distributed Systems & Protocols  
-- Scalability & High Availability  
+- **5+ years** building backend systems where reliability, correctness and performance at scale matter.
+- Owned the architecture of a **Go-based payment platform** with an **immutable double-entry ledger** as the system of record for customer balances.
+- Built **event-driven workflows** (SNS/SQS + PostgreSQL) with idempotent consumers and exactly-once business semantics.
+- Earlier: shared platform services and a **RAG-based AI service** at Upland Software, a **10x API latency cut** (~3s → <300ms) at Nextbrain, and **lending systems for 50,000+ borrowers**.
+- Interested in **payments infrastructure, distributed systems and platform engineering**.
 
 ---
 
-## 📌 Featured Projects  
+## 💼 Experience
 
-###  [Laravel Stream-Pulse](https://github.com/saravanasai/stream-pulse)  
-Laravel package for **Event-Driven Architecture (EDA)** using Redis Streams.  
-- Enables scalable event publishing & consuming directly inside Laravel.  
-- Ideal for real-time apps and microservice event workflows.  
-
-### [GoQueue](https://github.com/saravanasai/goqueue)  
-Lightweight, production-ready job queue in Go with multiple backends (Redis, SQLite, SQS).  
-- Supports retries, dead-letter queues, and graceful shutdown.  
-- Benchmarked for high-throughput event processing.  
-
-### [Load Balancer (Go)](https://github.com/saravanasai/loadbalancer)  
-Custom HTTP load balancer to understand **connection pooling, round-robin routing, and backend health checks**.  
+| Role | Company | Period | Highlights |
+|---|---|---|---|
+| **Senior Backend Engineer** | Aura Gold™ | Dec 2025 – Sep 2026 | Go payment platform for 1.8M+ users at 300+ TPS · immutable financial ledger with reversals, reconciliation & point-in-time balances · modular payment workflow engine |
+| **Creator & Maintainer** | [GoQueue](https://github.com/saravanasai/goqueue) | Aug 2025 – Mar 2026 | Open-source Go job queue (225+ ⭐) with pluggable in-memory, Redis and AWS SQS backends |
+| **Software Development Engineer I** | Upland Software | Nov 2023 – Dec 2025 | RAG service (+15% engagement) · async report generation with WebSocket progress · reusable platform services across SaaS products |
+| **Software Engineer** | Nextbrain | Nov 2022 – Nov 2023 | API response ~3s → <300ms · last-mile delivery backend (40K+ daily requests) · multi-tenant Digital Signage SaaS |
+| **PHP Developer** | Exciteon | Jun 2021 – Aug 2022 | Loan management system for 50K+ users · LoanStories loan origination + CRM · shared RBAC & rewards modules |
 
 ---
 
-## 📖 Writing & Talks  
-- 📝 Articles on **databases, OSI layers, load balancing, and protocols**.  
-- 🎤 Delivered tech talks on **Node.js event loop, thread pool contention, and deployment strategies**.  
-- Preparing for **AWS Associate Certification** to strengthen cloud expertise.  
+## 🔧 Tech Stack
+
+**Languages**
+Go • Python • Node.js / TypeScript • PHP
+
+**Frameworks**
+FastAPI • Express / NestJS • Laravel
+
+**Data & Messaging**
+PostgreSQL • MySQL • MSSQL • MongoDB • Redis • Kafka • ClickHouse
+
+**Cloud & DevOps**
+AWS (SNS, SQS, ECS, EKS, EC2, RDS, S3, VPC) • Docker • GitHub Actions
+
+**Focus Areas**
+Payment Systems • Financial Ledgers • Event-Driven Architecture • Distributed Systems • System Design • Database Internals
 
 ---
 
-## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/saravana-sai/)  
-- 🐦 [Twitter](https://x.com/Sai_Saravana_)  
-- 🐙 [GitHub](https://github.com/saravanasai)  
-- ✍️ [Hashnode](https://saravanasai.hashnode.dev/)  
+## 📌 Featured Projects
+
+### [GoQueue](https://github.com/saravanasai/goqueue) ⭐ 225+
+The flexible Go job queue that grows with you: start in-memory for development, scale to Redis for production, or deploy to AWS SQS in the cloud.
+- Pluggable backends, so you can switch infrastructure without changing application code.
+- Built-in retries, dead-letter queues, middleware pipeline, graceful shutdown and observability.
+
+### [Laravel Stream-Pulse](https://github.com/saravanasai/stream-pulse)
+Laravel package for **Event-Driven Architecture** using Redis Streams.
+- Scalable event publishing and consuming directly inside Laravel.
+- Suited to real-time apps and microservice event workflows.
+
+### [Load Balancer (Go)](https://github.com/saravanasai/loadbalancer)
+Custom HTTP load balancer exploring **connection pooling, round-robin routing and backend health checks**.
 
 ---
 
- *"Great engineering is not just about code — it’s about designing systems that scale, adapt, and endure."*  
+## ✍️ Writing & Talks
+
+- 📝 [**A Story About Indexes, Filters, and Where Databases Bend**](https://saravanasai.substack.com/p/a-story-about-indexes-filters-and): indexes on every column, a query returning 20 rows, and CPU still spiked. A deep dive into why.
+- 📚 More on databases, protocols, load balancing and backend internals on [Substack](https://saravanasai.substack.com/) and [Hashnode](https://saravanasai.hashnode.dev/).
+- 🎤 Tech talks on the Node.js event loop, thread pool contention and deployment strategies.
+
+---
+
+*"Great engineering is not just about code — it's about designing systems that scale, adapt, and endure."*
