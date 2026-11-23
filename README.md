@@ -6,7 +6,7 @@
 
 Bengaluru, India
 
-[LinkedIn](https://www.linkedin.com/in/saravana-sai/) · [Substack](https://saravanasai.substack.com/) · [Hashnode](https://saravanasai.hashnode.dev/) · [X](https://x.com/Sai_Saravana_)
+[Portfolio](https://thebackendguy.dev) · [LinkedIn](https://www.linkedin.com/in/saravana-sai/) · [Substack](https://saravanasai.substack.com/) · [Hashnode](https://saravanasai.hashnode.dev/) · [X](https://x.com/Sai_Saravana_)
 
 </div>
 
